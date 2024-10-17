@@ -11,7 +11,7 @@ Ademas de Git, pero estando en un linea similar estan:
     -Fossil
     -CVS (mas antiguo, de los primeros)
 
-    *Su princiapal definición es que son capaces de obtener una seguimientos de los codgidos realizados asi como de quien lo ha realizado, siendo puntual en que cambios se han generado y de quien ha colaborado o de quien ha revisado cada cambaio que se han generado el proyecto.
+*Su princiapal definición es que son capaces de obtener una seguimientos de los codgidos realizados asi como de quien lo ha realizado, siendo puntual en que cambios se han generado y de quien ha colaborado o de quien ha revisado cada cambaio que se han generado el proyecto.
 
 
 
