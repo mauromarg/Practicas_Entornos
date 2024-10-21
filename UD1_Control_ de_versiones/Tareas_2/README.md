@@ -4,6 +4,7 @@ Tarea 2: Investigación alternativa + Carpeta de aprendizaje
 * ¿Qué alternativas tenemos a Git? (analiza).
 
 Ademas de Git, pero estando en un linea similar estan:
+
     -Subersion(SVN)
     -Mercurial
     -Bazaar
@@ -26,4 +27,4 @@ Los repositorios digitales con soporte en nube mas nombrados son los siguientes:
     -Azure DevOps
     -Codeberg
 
-Donde su principal función es poder hacer compartir el proyecto 
+*Donde su principal función es poder hacer compartir el proyecto en la nube y poder trabajar en ello sin cada miembre que pueda editar esta trabajando sobre las mismas lineas.
