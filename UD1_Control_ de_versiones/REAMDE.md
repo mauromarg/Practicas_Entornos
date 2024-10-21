@@ -10,5 +10,9 @@ Una vez copiado ya poder abrir el codigo con nuestros editor de text.
 Fecha 21/10
 
 -Hemos actualizado nuestra tarea numero 2 y poder darle el formato que queremos mostrar en github.
+Para ello reforzamos el proceso de guardado, creacion de ramas, nombre de estatus de avances y el poder hacer push hacia nuestro repositorio en la nube
+
+usamos los comando git config --local user.name "name" (tener en cuenta que si lo hacemos con una sola palabra no hace falta las comillas) para firmar el branch creado
+usamos el comando git config --local user.email "email" esto permite asociar lo realizado por el editor.
 
 

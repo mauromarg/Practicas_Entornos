@@ -5,8 +5,8 @@ Tarea 2: Investigación alternativa + Carpeta de aprendizaje
 
 Ademas de Git, pero estando en un linea similar estan:
 
-    -Subersion(SVN)
-    -Mercurial
+    -Subersion(SVN), es una herramienta de control de versiones open source basada en un repositorio similar a un sistemas de ficheros, donde basicamente lo que te permite revisar proyectos realizarles modificaciones y guardarlos. Este software de licencia libre. 
+    -Mercurial, es una gestionador de control de versiones, donde principalmente es usado por programas realizados en leguaje de programación PYTHON
     -Bazaar
     -Perforce
     -Fossil
@@ -20,8 +20,8 @@ Ademas de Git, pero estando en un linea similar estan:
 
 Los repositorios digitales con soporte en nube mas nombrados son los siguientes:
 
-    -GitLab
-    -Bitbucket
+    -GitLab, es una suite completa que permite gestionar, administrar, crear y conectar los repositorios con diferentes aplicaciones y hacer todo tipo de integraciones con ellas.
+    -Bitbucket, es un servicio de alojamiento basado en web, para los proyectos que utilizan el sistema de control de versiones Mercurial y Git.
     -SouceForce
     -Gitea
     -Azure DevOps
