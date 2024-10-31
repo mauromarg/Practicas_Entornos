@@ -9,7 +9,7 @@ Tipos de clasificaciones de lenguajes de programación
 
         Dentro de los niveles de lenguajes de programación, los que se encuadran en este grupo se destinan directamente a las máquinas. 
 
-        Existen dos lenguajes de programación de nivel bajo:
+        Existen lenguajes de programación de nivel bajo:
 
             Lenguaje máquina: el famoso código binario donde se utilizan los 0 y los 1. Solamente las computadoras descifran este código.
 
@@ -25,23 +25,38 @@ Tipos de clasificaciones de lenguajes de programación
 
         
 
-
       
     SEGUN SU PARADIGMA
-    * IMPERATIVOS:
+    * IMPERATIVOS: ES EL COMO
+        Si la programación imperativa se caracteriza por el uso de variables, comandos y procedimientos.
+
         * Orientados Objetos
+            * El paradigma orientado a objetos, se basa en los conceptos de objetos y clases de objetos. Un objeto es una variable equipada con un conjunto de operaciones que le pertenecen o están definidas para ellos. El paradigma orientado a objetos actualmente es el paradigma más popular y día a día los programadores, estudiantes y profesionales tratan de tomar algún curso que tenga que ver con este paradigma, podría decirse, que programar orientado a objetos está de moda.
+
         * Orientados Eventos
-    * DECLARATIVOS:
+            * Tanto la estructura como la ejecución de los programas van determinados por los sucesos que ocurran en el sistema, definidos por el usuario o que ellos mismos provoquen. 
+    
+    * DECLARATIVOS: ES EL QUE
+     
+
         * FUNCIONALES
+            * Un programa dentro del paradigma funcional, es una función o un grupo de funciones compuestas por funciones más simples estableciéndose que una función puede llamar a otra, o el resultado de una función puede ser usado como argumento de otra función.
         * LÓGICOS
+            * Programación lógica se basa en el hecho que un programa implementa una relación antes que una correspondencia. Debido a que las relaciones son mas generales que las correspondencias (identificador - dirección de memoria), la programación lógica es potencialmente de más alto nivel que la programación funcional o la imperativa. El lenguaje más popular enmarcado dentro de este paradigma es el lenguaje PROLOG. El auge del paradigma declarativo se debe a que el área de la lógica formal de las matemáticas ofrece un sencillo algoritmo de resolución de problemas adecuado para, usarse en un sistema de programación declarativo de propósito general.
+
 
     FORMA DE EJECUCIÓN
-    * COMPILACIÓN
-    * INTERPRETADOR
-    * MAQUINA VIRTUAL
+        * COMPILACIÓN
+            * Se encarga de analizar todo el codigo fuente y traducirlo a codigo maquina
+        * INTERPRETADOR
+            * Se encarga de revisar el codigo, traducirlo y pasarlo a la maquina y ejecutarlo
+        * MAQUINA VIRTUAL
+            * Un programa capaz de traducir el codigo fuente de manera mas rapido para tenerlo en codigo fuente.
 
 
 
     Bibliografía:
 
     https://assemblerinstitute.com/blog/tipos-lenguaje-programacion/
+    https://sisbib.unmsm.edu.pe/bibvirtual/publicaciones/indata/v04_n1/lenguajes.htm
+    https://es.wikipedia.org/wiki/Programaci%C3%B3n_dirigida_por_eventos
