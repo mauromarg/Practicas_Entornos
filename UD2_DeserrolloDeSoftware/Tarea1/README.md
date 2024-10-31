@@ -47,11 +47,11 @@ Tipos de clasificaciones de lenguajes de programación
 
     FORMA DE EJECUCIÓN
         * COMPILACIÓN
-            *
+            * Se encarga de analizar todo el codigo fuente y traducirlo a codigo maquina
         * INTERPRETADOR
-            *
+            * Se encarga de revisar el codigo, traducirlo y pasarlo a la maquina y ejecutarlo
         * MAQUINA VIRTUAL
-            *
+            * Un programa capaz de traducir el codigo fuente de manera mas rapido para tenerlo en codigo fuente.
 
 
 
