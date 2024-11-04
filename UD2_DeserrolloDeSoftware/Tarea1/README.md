@@ -51,7 +51,7 @@ Tipos de clasificaciones de lenguajes de programación
         * INTERPRETADOR
             * Se encarga de revisar el codigo, traducirlo y pasarlo a la maquina y ejecutarlo
         * MAQUINA VIRTUAL
-            * Un programa capaz de traducir el codigo fuente de manera mas rapido para tenerlo en codigo fuente.
+            * Un programa capaz de traducir el codigo fuente de manera mas rapido para tenerlo en codigo maquina.
 
 
 
